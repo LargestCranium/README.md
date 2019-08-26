@@ -1,7 +1,6 @@
 # README.md
 MSIS
-<<<<<<< HEAD
+Akayne
+choi229
 gpjung
-=======
 roxiliu
->>>>>>> dev-roxiliu
